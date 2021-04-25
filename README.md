@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @no3l0815
 - 👀 I’m interested in varouslinux related stuff
-- 🌱 I’m currently learning to code in C
+<!-- 🌱 I’m currently learning to code in C -->
 - 💞️ I’m looking to collaborate on things i'm interested 
 - 📫 Reach me per email
 
